@@ -30,7 +30,7 @@ npm run build
 ```
 
 ## Demo
-[Preview](https://coming-soon/)
+[Preview](https://optimistic-engelbart-9474c4.netlify.app/)
 
 ## Author
 
