@@ -1,9 +1,9 @@
 # Welcome to Semantic UI Landing Page 👋
-[![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/react-testing/react-portals)
+[![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/react-testing/semantic-ui-landing-page)
 [![Twitter: libardo\_r12](https://img.shields.io/twitter/follow/libardo\_r12.svg?style=social)](https://twitter.com/libardo\_r12)
 
 > Landing page made with semantic ui library in ReactJS 🌐 (Beginner)
-### 🏠 [Homepage](https://github.com/react-testing/react-portals)
+### 🏠 [Homepage](https://github.com/react-testing/semantic-ui-landing-page)
 
 ## Install
 
