@@ -1,0 +1,63 @@
+* {
+  font-family: "Nunito Sans", sans-serif;
+}
+
+.navbar {
+  margin-top: 2rem;
+  display: flex !important;
+  justify-content: space-around;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+
+  a {
+    color: #000;
+  }
+
+  .navbar-sub {
+    display: flex;
+    justify-content: space-between;
+    a {
+      display: block;
+      margin: 0 10px;
+      font-weight: bold;
+    }
+  }
+}
+
+.main {
+  padding-bottom: 3rem;
+}
+
+.container-section {
+  margin-top: 6rem !important;
+}
+
+.segment.container.hero {
+  background-color: #eee !important;
+
+  padding: 5rem;
+  border-radius: 10px !important;
+
+  .column-hero {
+    display: flex !important;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .hero-coverpage {
+    height: 200px;
+    object-fit: cover;
+    object-position: center;
+  }
+}
+
+.header .sub.header {
+  margin-top: 1rem !important;
+}
+
+.how-todo > .column img {
+  object-fit: cover;
+  max-height: 292px;
+  height: 100% !important;
+}
