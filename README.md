@@ -36,7 +36,7 @@ npm run build
 
 👤 **Libardo Rengifo**
 
-* Website: https://portafolio-jet.vercel.app/
+* Website: https://portfolio-znareak.vercel.app/
 * Twitter: [@libardo\_r12](https://twitter.com/libardo\_r12)
 * Github: [@znareak](https://github.com/znareak)
 
