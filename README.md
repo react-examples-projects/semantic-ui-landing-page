@@ -2,7 +2,7 @@
 [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/react-testing/react-portals)
 [![Twitter: libardo\_r12](https://img.shields.io/twitter/follow/libardo\_r12.svg?style=social)](https://twitter.com/libardo\_r12)
 
-> A example basic of a modal alert, using react portals with a modal with a very beautiful UI
+> Landing page made with semantic ui library in ReactJS 🌐 (Beginner)
 ### 🏠 [Homepage](https://github.com/react-testing/react-portals)
 
 ## Install
